@@ -1,4 +1,4 @@
-<div style="background-image: url('[[https://via.placeholder.com/1200x400.png](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)'); background-size: cover; padding: 20px; text-align: center; color: white;">
+<div style="background-image: url('[https://via.placeholder.com/1200x400.png](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)'); background-size: cover; padding: 20px; text-align: center; color: white;">
     <h1>👋 Hola, soy Rafael</h1>
     <img src="https://media2.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="100px" alt="GIF"/>
     <p>Estudiante de Ingeniería con pasión por el desarrollo de software.</p>
