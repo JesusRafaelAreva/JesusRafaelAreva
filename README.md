@@ -1,8 +1,11 @@
-## 👋 Hola, soy Rafael 
-<img src="https://media2.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="30px" align="center"></a>
-Estudiante de Ingeniería con pasión por el desarrollo de software.
+<div style="background-image: url('https://via.placeholder.com/1200x400.png'); background-size: cover; padding: 20px; text-align: center; color: white;">
+    <h1>👋 Hola, soy Rafael</h1>
+    <img src="https://media2.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="100px" alt="GIF"/>
+    <p>Estudiante de Ingeniería con pasión por el desarrollo de software.</p>
+</div>
 
 ## 🚀 Skills:
+
 <div align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
