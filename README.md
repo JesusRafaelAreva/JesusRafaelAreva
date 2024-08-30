@@ -1,7 +1,7 @@
 <div style="background-image: url('[https://via.placeholder.com/1200x400.png](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)'); background-size: cover; padding: 20px; text-align: center; color: white;">
     <h1>👋 Hola, soy Rafael</h1>
     <img src="https://media2.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="100px" alt="GIF"/>
-    <p>Estudiante de Ingeniería con pasión por el desarrollo de software.</p>
+    <p>Egresado de la Carrera de Ing. de Sistemas.</p>
 </div>
 
 ## 🚀 Skills:
